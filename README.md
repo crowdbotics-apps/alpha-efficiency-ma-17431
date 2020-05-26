@@ -1,4 +1,4 @@
-# Crowdbotics React Native scaffold
+# Alpha Efficiency Magazine React Native scaffold
 
 After cloning this repo, you will need to install the dependencies:
 
